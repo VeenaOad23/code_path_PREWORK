@@ -20,10 +20,26 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Instagram - Colors are very ncie and appealing
+Can upload stories
+Can upload pictures
+Can communicate with people
+Snapchat - Great way to communicate with people
+Can edit old messages
+Make filter faces
+an upload stories 
+
+Youtube
+Can view videos from alla cross the world
+Allows for easy method to create videos/public, etc editing tools
+Reels, cool way to scroll some small videos
+
+Personal APP:
+I would like to make a communicate app, like Whatsapp, but grouping people with similar likes. 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The GitHub linking files, altough I do beleive I did it correctly but there are many files in one folder.
 
 ## License
 
